@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0"> <title>Hub Components</title> <style>html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background-color: #999;
+    }
+
+    .nav {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+    }
+    arcgis-hub-map-trivia {
+      height: 100%;
+      width: 100%;
+    }</style> <link rel="stylesheet" href="https://webapps-cdn.esri.com/CDN/fonts/v1.4.1/fonts.css"> <script type="module" src="build/hub-components.esm.js"></script> <script nomodule="" src="build/hub-components.js"></script> <link rel="stylesheet" href="calcite/calcite.css"> <link rel="stylesheet" href="https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite-web/1.2.5/css/calcite-web.min.css"> </head> <body> <arcgis-hub-map-trivia gist="09ea057bfe09e4e76741165f8bd72369" file="testQuiz.yaml"></arcgis-hub-map-trivia><script>
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  // auto-unregister service worker during dev mode
+  navigator.serviceWorker.getRegistration().then(function(registration) {
+  if (registration) {
+    registration.unregister().then(function() { location.reload(true) });
+  }
+  });
+}
+</script></body></html>
