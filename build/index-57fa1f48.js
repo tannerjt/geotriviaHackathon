@@ -1,4 +1,4 @@
-import { c as createCommonjsModule } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule } from './commonjsHelpers-93ec9c7a.js';
 
 'use strict';
 

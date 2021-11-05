@@ -1,7 +1,7 @@
 import { r as registerInstance, h, g as getElement } from './index-6d36ecd3.js';
 import { c as color } from './index-57fa1f48.js';
 import { l as getThemeName } from './dom-35210035.js';
-import './_commonjsHelpers-93ec9c7a.js';
+import './commonjsHelpers-93ec9c7a.js';
 import './guid-9ad8042d.js';
 
 const CSS = {

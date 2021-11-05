@@ -1,4 +1,4 @@
-import { c as createCommonjsModule, g as getDefaultExportFromCjs, a as commonjsGlobal, b as commonjsRequire } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule, g as getDefaultExportFromCjs, a as commonjsGlobal, b as commonjsRequire } from './commonjsHelpers-93ec9c7a.js';
 
 function _typeof$3(obj) {
   "@babel/helpers - typeof";

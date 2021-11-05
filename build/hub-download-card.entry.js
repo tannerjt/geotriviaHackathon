@@ -1,5 +1,5 @@
 import { f as getAssetPath, r as registerInstance, i as createEvent, h, g as getElement } from './index-6d36ecd3.js';
-import { c as createCommonjsModule, g as getDefaultExportFromCjs } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule, g as getDefaultExportFromCjs } from './commonjsHelpers-93ec9c7a.js';
 import { R as getUserContent, T as createFolder, f as updateItem, V as setItemAccess, W as moveItem, e as removeItem, X as getItemStatus, Y as exportItem, h as getItem, s as searchItems, U as UserSession } from './index-f26ee985.js';
 import { G as parseDatasetId, aH as getExportItemTypeKeyword, aI as getExportLayerTypeKeyword, aJ as getSpatialRefTypeKeyword, g as getProp, aK as buildExistingExportsPortalQuery } from './index-b3f90185.js';
 import { g as getService, b as getLayer } from './index-8d875f9a.js';

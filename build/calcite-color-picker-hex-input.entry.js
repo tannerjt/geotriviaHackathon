@@ -4,7 +4,7 @@ import { c as color } from './index-57fa1f48.js';
 import { a as getElementDir, f as focusElement } from './dom-35210035.js';
 import { T as TEXT } from './resources-25070f89.js';
 import { g as getKey } from './key-4c5a210a.js';
-import './_commonjsHelpers-93ec9c7a.js';
+import './commonjsHelpers-93ec9c7a.js';
 import './guid-9ad8042d.js';
 
 const CSS = {

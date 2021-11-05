@@ -1,6 +1,6 @@
 import { r as registerInstance, h, g as getElement } from './index-6d36ecd3.js';
 import { c as componentLanguage, i as i18next } from './localizer-e674651b.js';
-import './_commonjsHelpers-93ec9c7a.js';
+import './commonjsHelpers-93ec9c7a.js';
 
 const hubDownloadNoticeCss = "div{font-size:var(--calcite-font-size--1);line-height:1rem}calcite-notice{margin-bottom:0.5rem}calcite-loader{margin-right:0.5rem}calcite-loader[active]{display:inline-block}";
 

@@ -1,5 +1,5 @@
 import { r as registerInstance, i as createEvent, h, e as Host } from './index-6d36ecd3.js';
-import { c as createCommonjsModule, a as commonjsGlobal, g as getDefaultExportFromCjs } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule, a as commonjsGlobal, g as getDefaultExportFromCjs } from './commonjsHelpers-93ec9c7a.js';
 
 var esriLoader = createCommonjsModule(function (module, exports) {
 (function (global, factory) {

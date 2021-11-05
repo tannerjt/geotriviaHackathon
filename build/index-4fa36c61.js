@@ -1,7 +1,7 @@
 import { q as getLayerIdFromUrl, r as isNil, t as isFeatureService, g as getProp, c as cloneObject, u as includes, v as isMapOrFeatureServerUrl, w as getItemHomeUrl, x as getItemApiUrl, y as getItemDataUrl, z as getItemThumbnailUrl, A as createOperationPipeline, O as OperationStack, B as getFamily, C as normalizeItemType, D as isSlug, E as addContextToSlug, F as hubApiRequest, G as parseDatasetId, H as mergeObjects, d as datasetToContent, i as itemToContent, I as getItemHubId } from './index-b3f90185.js';
 import { p as getItemMetadata, q as getItemGroups, t as getUser, j as getItemData, h as getItem } from './index-f26ee985.js';
 import { g as getService, a as getAllLayersAndTables, p as parseServiceUrl } from './index-8d875f9a.js';
-import { c as createCommonjsModule, a as commonjsGlobal } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule, a as commonjsGlobal } from './commonjsHelpers-93ec9c7a.js';
 
 // **DEPRECATED: import from hub-common instead**
 

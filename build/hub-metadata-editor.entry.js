@@ -1,5 +1,5 @@
 import { r as registerInstance, i as createEvent, h, e as Host } from './index-6d36ecd3.js';
-import { c as createCommonjsModule, a as commonjsGlobal, g as getDefaultExportFromCjs } from './_commonjsHelpers-93ec9c7a.js';
+import { c as createCommonjsModule, a as commonjsGlobal, g as getDefaultExportFromCjs } from './commonjsHelpers-93ec9c7a.js';
 
 var uri_all = createCommonjsModule(function (module, exports) {
 /** @license URI.js v4.4.0 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */

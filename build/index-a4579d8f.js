@@ -1,5 +1,5 @@
 import { R as RemoteServerError$1, M as buildUrl, G as parseDatasetId } from './index-b3f90185.js';
-import { a as commonjsGlobal } from './_commonjsHelpers-93ec9c7a.js';
+import { a as commonjsGlobal } from './commonjsHelpers-93ec9c7a.js';
 
 class RemoteServerError extends RemoteServerError$1 {
     constructor(message, url, status, error) {
